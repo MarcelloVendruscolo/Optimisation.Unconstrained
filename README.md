@@ -1,2 +1,2 @@
 # Optimisation.Unconstrained
-This repository regards the first assignment of the Optimisation course at the Uppsala University.
+This repository regards the first assignment of the Optimisation course at the Uppsala University. This assignment explores the concept of unconstrained optimisation with its goal being the minimisation of the objective function. The first tasks approach the minimisation in a two dimensional space (i.e., 1 variable and 1 output) while the last tasks approach the problem in a multidimensional (i.e., 2 variables and 1 output) space. The assignment is concluded with the presentation of a seminar where the achieved results are discussed.
